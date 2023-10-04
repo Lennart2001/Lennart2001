@@ -32,6 +32,8 @@
 - **Description**: A command-line application for managing contact information. Built with Python and uses SQLite for efficient data storage and retrieval
 - **Technologies**: `Python`, `Bash`, `SQLite`
 
+---
+
 ## 💻 Development
 
 > **Empowering projects with a diverse skill set.**
