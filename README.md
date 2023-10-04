@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=100&size=21&pause=1000&vCenter=true&multiline=false&width=1000&lines=At+least+it+didn't+happen+in+a+public+and+brutally+embarrassing+way." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=100&size=21&pause=1000&vCenter=true&multiline=false&width=1000&lines=“At+least+it+didn't+happen+in+a+public+and+brutally+embarrassing+way.“" alt="Typing SVG" /></a>
 
 
 ---
