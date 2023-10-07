@@ -35,6 +35,16 @@
 
 ---
 
+## 📜 Certifications
+
+### In Progress
+
+#### 🕸️ [Cisco Certified Network Associate (CCNA)](https://learningnetwork.cisco.com/s/ccna)
+- **Issuing Organization**: CISCO
+- **Expected Completion**: December 2023
+
+---
+
 ## 💻 Development
 
 > **Empowering projects with a diverse skill set.**
