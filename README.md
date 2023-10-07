@@ -43,6 +43,11 @@
 - **Issuing Organization**: CISCO
 - **Expected Completion**: December 2023
 
+
+#### 👾 [Offensive Security Certified Professional (OSCP)](https://www.offsec.com/courses/pen-200/)
+- **Issuing Organization**: Offensive Security
+- **Expected Completion**: February 2024
+
 ---
 
 ## 💻 Development
