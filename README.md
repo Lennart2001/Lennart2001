@@ -33,7 +33,7 @@
 - **Description**: A command-line application for managing contact information. Built with Python and uses SQLite for efficient data storage and retrieval
 - **Technologies**: `Python`, `Bash`, `SQLite`
 
-### 📖 [Chess AI](https://github.com/Lennart2001/Chess-AI)
+### 🦾 [Chess AI](https://github.com/Lennart2001/Chess-AI)
 - **Description**: An Artificially Intelligent Chess Engine that calculates moves using the MiniMax Algorithm and was enhanced by the Alpha Beta Pruning Algorithm
 - **Technologies**: `C++`
 
