@@ -19,7 +19,11 @@
 
 ### 🚀 [OverTheWire](https://github.com/Lennart2001/overthewire-writeups)
 - **Description**: My OverTheWire escapades written down for people to judge
-- **Technologies**: `ASCII Text`
+- **Technologies**: `ASCII Text`, `Linux`
+
+### ⚙️ [Microcorruption](https://github.com/Lennart2001/microcorruptions)
+- **Description**: Analysis of the microcorruptions CTF challenges, showcasing reverse engineering techniques.
+- **Technologies**: `ASCII Text`, `Assembly`
 
 ---
 
