@@ -1,7 +1,7 @@
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=100&size=21&vCenter=false&multiline=true&width=1000&height=65&lines=“At+least+it+didn't+happen+in+a+public+and+brutally+embarrassing+way.“;- Gilfoyle" alt="Typing SVG" /></a>
--->
 
 ---
+-->
 
 ## 🧪 Research
 
