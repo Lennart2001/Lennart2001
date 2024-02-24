@@ -49,12 +49,8 @@
 
 #### 🕸️ [Cisco Certified Network Associate (CCNA)](https://learningnetwork.cisco.com/s/ccna)
 - **Issuing Organization**: CISCO
-- **Expected Completion**: December 2023
+- **Expected Completion**: April 2024
 
-
-#### 👾 [Offensive Security Certified Professional (OSCP)](https://www.offsec.com/courses/pen-200/)
-- **Issuing Organization**: Offensive Security
-- **Expected Completion**: February 2024
 
 ---
 
