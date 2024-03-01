@@ -29,6 +29,10 @@
 
 ## 💻 Projects
 
+### 👻 [Packet Spoofing](https://github.com/Lennart2001/packet_spoofing)
+- **Description**: A simple command-line tool to craft spoofed GET Requests
+- **Technologies**: `C`
+
 ### 🌳 [Treeview](https://github.com/Lennart2001/Treeview)
 - **Description**: A command-line tool for visualizing directory trees with progress tracking
 - **Technologies**: `Python`
