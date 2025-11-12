@@ -29,10 +29,6 @@
 
 ## 💻 Projects
 
-### 👻 [Packet Spoofing](https://github.com/Lennart2001/packet_spoofing)
-- **Description**: A simple command-line tool to craft spoofed GET Requests
-- **Technologies**: `C`
-
 ### 🌳 [Treeview](https://github.com/Lennart2001/Treeview)
 - **Description**: A command-line tool for visualizing directory trees with progress tracking
 - **Technologies**: `Python`
@@ -60,15 +56,11 @@
 
 ## 💻 Development
 
-> **Empowering projects with a diverse skill set.**
+[![My Skills](https://skillicons.dev/icons?i=py,linux,latex,sqlite,neovim)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,bash,linux,latex,sqlite,pytorch,tensorflow,vim)](https://skillicons.dev)
-
-- 🌐 **Languages**: `C`, `C++`, `Python`
-- 🖥️ **Shell Scripting**: `Bash`
+- 🌐 **Languages**: `Python`
 - 🐧 **Operating Systems**: `Linux`
 - 📄 **Documentation**: `LaTeX`
 - 📊 **Databases**: `SQLite`
-- 🧠 **Machine Learning Frameworks**: `PyTorch`, `TensorFlow`
-- 📝 **Editors**: `VIM`
+- 📝 **Editors**: `NEOVIM`
 
